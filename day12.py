@@ -2,7 +2,7 @@ contacts = {}
 
 while True:
 
-    print("\n===== CONTACT BOOK =====")
+    print("\n====== CONTACT BOOK ======")
     print("1. Add Contact")
     print("2. View Contacts")
     print("3. Search Contact")
