@@ -14,5 +14,5 @@ print("You are", age, "years old.")
 # Calculate age after 5 years
 future_age = age + 5
 
-print("After 5 years, you will be", future_age, "years old.")
+print("After 5 years, you will be-", future_age, "years old")
 
